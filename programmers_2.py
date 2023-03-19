@@ -1,4 +1,4 @@
-# Proframmers Lv.2 JadenCase 문자열 만들기
+# Programmers Lv.2 JadenCase 문자열 만들기
 def solution(s):
     answer = ''
     words = list(s.lower().split(" "))

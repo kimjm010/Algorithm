@@ -1,4 +1,4 @@
-# Proframmers Lv.2 최댓값과 최솟값
+# Programmers Lv.2 최댓값과 최솟값
 
 def solution(s):
     answer = ''
