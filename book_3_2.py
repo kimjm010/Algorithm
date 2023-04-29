@@ -27,5 +27,5 @@ if __name__ == '__main__':
     if idx == 1:
         print("검색값을 갖는 원수가 존재하지 않습니다.")
     else:
-        print(f"검색값은 x[{idx}]에 있습니다."
+        print(f"검색값은 x[{idx}]에 있습니다.")
               

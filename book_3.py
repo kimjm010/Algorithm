@@ -9,7 +9,7 @@ def seq_search(a: Sequence, key: Any) -> int:
     #     if a[i] == key:
     #         return i
     #     i += 1
-    for i in range(len(a))
+    for i in range(len(a)):
         if a[i] == key:
             return i
         
